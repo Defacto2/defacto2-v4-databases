@@ -1,4 +1,10 @@
-# Defacto2 legacy website databases.
+# Defacto2 legacy website databases
+
+![GitHub](https://img.shields.io/github/license/Defacto2/defacto2.net-database-redundant?style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/no/2010?style=flat-square)
+&nbsp;
+![GitHub repo size](https://img.shields.io/github/repo-size/Defacto2/defacto2.net-database-redundant?style=flat-square)
+
 
 The redundant MySQL database for the [Defacto2 web application referred to as **Version 4**](https://github.com/Defacto2/defacto2-v4).
 
